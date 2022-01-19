@@ -1,0 +1,25 @@
+
+img{
+  height: 100%;
+  width:100%;
+  margin: 0;
+  border: none;
+
+}
+h1{
+  background-color: #1A374D;
+  height: 100px;
+  color: black;
+  font-size: 80px;
+  margin: 0;
+
+}
+.b{
+  height: 50px;
+  width: 50px;
+
+}
+p
+{
+  font-size: 20px;
+}
